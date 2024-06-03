@@ -21,7 +21,7 @@ In this project, I created a simple and elegant blog card that showcases the bea
 
 ## Screenshots
 
-![Minimal Blog Card](./assets/screenshot.png)
+![Minimal Blog Card](./assets/Screenshot.png)
 
 ## How to Use
 
